@@ -35,6 +35,11 @@ body{
     border-radius:5px;
     
 }
+#input:hover{
+    width: 486px;
+    height: 84px;
+    border:2px solid lightblue;
+}
 
 #num{
     height:410px;
@@ -55,6 +60,9 @@ body{
     border-bottom:2px solid #f5f5f5;
     flex: auto; /*grow as per box*/
     /* border-radius: 8px; */
+}
+.button:hover{
+    border: 2px solid lightblue;
 }
 #zero{
     height: 80px;
