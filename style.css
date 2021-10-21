@@ -37,6 +37,7 @@ body{
 }
 #input:hover{
     width: 486px;
+    height:75px;
     border:2px solid lightblue;
 }
 
